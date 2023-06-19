@@ -108,7 +108,7 @@ class PostController extends Controller
             $post->image = $imageName;
         }
 
-        $post->save();
+        Auth::user()->posts()->save($post);
 
         return redirect()->route('posts.index')->with('success', 'Post updated successfully!');
     }
