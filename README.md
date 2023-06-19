@@ -44,5 +44,5 @@ If you'd like to contribute to this project, you can follow these steps:
 5. Submit a pull request detailing your changes and their purpose.
 
 License:
-This project is licensed under the [MIT License](link-to-license-file). Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is open source. Feel free to use, modify, and distribute the code.
 
