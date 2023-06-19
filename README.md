@@ -7,15 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-Job Search Engine
+Social Media App
 
-Fuctionalities:
-    #Create
-    #Edit
-    #Update
-    #Delete
+Functionalities:
+    #Create posts
+    #Edit posts
+    #connect with users
+    #Delete posts
 
-Users can also search through Jobs that have already been created
+Still working on this so there is more features to be added
 
 <img src="https://files.fm/thumb_show.php?i=567ynq72r" width="600" alt="image">
 
